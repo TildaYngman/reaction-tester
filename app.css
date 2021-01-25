@@ -1,0 +1,20 @@
+	#shape {
+		height: 200px;
+		width: 200px;
+		background-color: red;
+		display: none;
+		position: relative;
+	}
+	
+	.bold {
+		font-weight: bold;
+	}
+	
+	.smalText {
+		font-size: 80%;
+	}
+	
+	#gameContainer {
+		width: auto;
+		height: auto;
+	}
